@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\OneDrive\GitHub\PrimerExamenParcial\Parcial01\Parcial01\bin\Debug\Parcial01.exe.config
+C:\Users\MINEDUCYT\OneDrive\GitHub\PrimerExamenParcial\Parcial01\Parcial01\bin\Debug\Parcial01.exe
+C:\Users\MINEDUCYT\OneDrive\GitHub\PrimerExamenParcial\Parcial01\Parcial01\bin\Debug\Parcial01.pdb
+C:\Users\MINEDUCYT\OneDrive\GitHub\PrimerExamenParcial\Parcial01\Parcial01\obj\Debug\Parcial01.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\GitHub\PrimerExamenParcial\Parcial01\Parcial01\obj\Debug\Parcial01.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\GitHub\PrimerExamenParcial\Parcial01\Parcial01\obj\Debug\Parcial01.exe
+C:\Users\MINEDUCYT\OneDrive\GitHub\PrimerExamenParcial\Parcial01\Parcial01\obj\Debug\Parcial01.pdb
